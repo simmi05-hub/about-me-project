@@ -1,30 +1,31 @@
-# About-me-project
+# About Me - 1st Project 
+- Hi! I'm  Simran Kanchan. a BCA student at IGNOU. This is a simple web project that I created using HTML & CSS.
 
-This is a mini web development project built using **HTML5** and **CSS3** as part of my internship / personal learning.
+## Project Files
+- project1about-me.html – Main HTML file
+- project1about-mestyle.css – CSS styling file
+- README.md – Describing my project
 
-## 📄 Project Description
+## What I used
+- HTML5 for structure
+- CSS3 for styling
 
-This project is a simple **"About Me" webpage**, which includes:
-- My personal introduction
-- My hobbies and interests
-- A photo
-- Embedded YouTube video of my favorite learning source
-- Styled using pure CSS
+## What I added
+- My introduction using "section" and "article"
+- A list of my hobbies using unordered list
+- A table showing my weekly learning schedule
+- A contact form with text and email input
+- A YouTube video embedded using "iframe"
+- CSS styling for colors, layout etc.
 
-## 💡 Skills Used
+## What I Learned
+- How to write clean and organized HTML code
+- How to link external CSS file and styling HTML elements
+- How to create form and table
+- How to push a project to GitHub 
 
-- HTML
-- CSS
-- Git & GitHub (for version control and publishing)
-
-## 📌 How I Made It
-
-I created this using **Visual Studio Code** and practiced pushing code using **GitHub** for the first time.
-
-## 🌐 Live Preview (Optional)
-
-> (You can later add a GitHub Pages link here if you want to host it)
+## Note
+I made this project by myself as a beginner, I've some basic knowledge of HTML and CSS and from that I was able to build this project and improve my skills. It helped me understand how websites are structured and style.
 
 ---
 
-This project is a part of my learning journey. Stay tuned for more! 💻✨
