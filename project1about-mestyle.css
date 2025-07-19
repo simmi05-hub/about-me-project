@@ -1,0 +1,26 @@
+body {
+    background-color: white;
+}
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+section {                                      
+    background-color: white;
+}
+
+article {
+    background-color: lightgray;
+}
+
+table, th, td {
+    border: 1px solid;
+}
+
+form {
+    background-color: white;
+}
